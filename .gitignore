@@ -1,0 +1,14 @@
+﻿# Archive and loose copies (same files live in excel/ and report/)
+/bank-churn-analysis.zip
+/Bank_Churn_Analysis.xlsx
+/Project_Report.docx
+
+# Office lock/temp files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw dataset: download from Kaggle (see data/README.md)
+/data/*.csv

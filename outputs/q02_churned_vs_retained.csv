@@ -1,0 +1,3 @@
+churn_status,customers,avg_age,avg_credit_score,avg_tenure_yrs,avg_balance,avg_products,pct_active,pct_female,pct_germany,avg_salary
+Churned,2037,44.8,645,4.9,91109,1.48,36.1,55.9,40.0,101466
+Retained,7963,37.4,652,5.0,72745,1.54,55.5,42.7,21.3,99738

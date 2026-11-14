@@ -1,0 +1,2 @@
+total_customers,churned_customers,churn_rate_pct,total_balance,balance_lost,pct_balance_lost
+10000,2037,20.37,764858893,185588095,24.26

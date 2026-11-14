@@ -1,0 +1,5 @@
+num_products,customers,churned,churn_rate_pct,change_vs_prev_pp
+1,5084,1409,27.7,NULL
+2,4590,348,7.6,-20.1
+3,266,220,82.7,75.1
+4,60,60,100.0,17.3

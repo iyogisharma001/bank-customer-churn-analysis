@@ -1,0 +1,32 @@
+dimension,segment,customers,churned,churn_rate_pct,lift_vs_bank,rank_in_dimension
+Activity,Inactive,4849,1302,26.9,1.32,1
+Activity,Active,5151,735,14.3,0.70,2
+Age band,4. 50-59,869,487,56.0,2.75,1
+Age band,3. 40-49,2618,806,30.8,1.51,2
+Age band,5. 60+,526,147,27.9,1.37,3
+Age band,2. 30-39,4346,473,10.9,0.53,4
+Age band,1. 18-29,1641,124,7.6,0.37,5
+Balance band,2. Up to 50K,75,26,34.7,1.70,1
+Balance band,4. 100K-150K,3830,987,25.8,1.27,2
+Balance band,5. 150K+,969,224,23.1,1.13,3
+Balance band,3. 50K-100K,1509,300,19.9,0.98,4
+Balance band,1. Zero,3617,500,13.8,0.68,5
+Credit band,1. Poor (<580),2362,520,22.0,1.08,1
+Credit band,4. Very Good (740-799),1224,252,20.6,1.01,2
+Credit band,2. Fair (580-669),3331,685,20.6,1.01,3
+Credit band,5. Excellent (800+),655,128,19.5,0.96,4
+Credit band,3. Good (670-739),2428,452,18.6,0.91,5
+Credit card,No card,2945,613,20.8,1.02,1
+Credit card,Has card,7055,1424,20.2,0.99,2
+Gender,Female,4543,1139,25.1,1.23,1
+Gender,Male,5457,898,16.5,0.81,2
+Geography,Germany,2509,814,32.4,1.59,1
+Geography,Spain,2477,413,16.7,0.82,2
+Geography,France,5014,810,16.2,0.79,3
+Products held,4,60,60,100.0,4.91,1
+Products held,3,266,220,82.7,4.06,2
+Products held,1,5084,1409,27.7,1.36,3
+Products held,2,4590,348,7.6,0.37,4
+Tenure band,1. New (0-2 yrs),2496,528,21.2,1.04,1
+Tenure band,2. Mid (3-6 yrs),3977,821,20.6,1.01,2
+Tenure band,3. Long (7-10 yrs),3527,688,19.5,0.96,3

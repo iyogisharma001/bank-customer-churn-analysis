@@ -1,0 +1,4 @@
+geography,customers,churn_rate_pct,active_churn_pct,inactive_churn_pct,female_churn_pct,male_churn_pct,pct_zero_balance,avg_balance,balance_lost
+Germany,2509,32.4,23.7,41.1,37.6,27.8,0.0,119730,97973916
+Spain,2477,16.7,10.7,23.3,21.2,13.1,48.4,61818,29948015
+France,5014,16.2,11.5,21.1,20.3,12.7,48.2,62093,57666165

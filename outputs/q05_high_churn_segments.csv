@@ -1,0 +1,11 @@
+geography,age_band,activity_status,customers,churned,churn_rate_pct,lift_vs_bank,pct_of_all_churners,balance_lost,churn_rank
+Germany,4. 50-59,Inactive,146,126,86.3,4.24,6.2,15181311,1
+France,4. 50-59,Inactive,152,118,77.6,3.81,5.8,7931327,2
+Germany,3. 40-49,Inactive,414,215,51.9,2.55,10.6,25847121,3
+Germany,4. 50-59,Active,131,68,51.9,2.55,3.3,8105216,4
+Germany,3. 40-49,Active,326,119,36.5,1.79,5.8,14275663,5
+France,4. 50-59,Active,230,79,34.4,1.69,3.9,5107460,6
+Spain,3. 40-49,Inactive,332,110,33.1,1.63,5.4,7768623,7
+France,3. 40-49,Inactive,650,205,31.5,1.55,10.1,14218058,8
+Spain,4. 50-59,Active,135,37,27.4,1.35,1.8,3178082,9
+Germany,2. 30-39,Inactive,481,113,23.5,1.15,5.5,13540522,10
